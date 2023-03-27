@@ -1,0 +1,4 @@
+height: 360
+width: 360
+channel: 1
+Image resolution: 360x360
