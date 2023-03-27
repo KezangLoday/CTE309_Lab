@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-image = cv2.imread('sample.jpg')
+image = cv2.imread('D:\klods\CTE309\lab2\sample.jpg')
 cv2.imshow("samplepic",image)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
@@ -15,7 +15,7 @@ print("channel:", channel)
 
 #greyscaleimage
 greyImg = cv2.cvtColor(image,cv2.COLOR_BGR2GRAY)
-cv2.imshow("samplepic",greyImg)
+cv2.imshow("samplepicgrey",greyImg)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 
@@ -47,6 +47,7 @@ file.close()
 
 #white pixel count
 whitePixel = np.sum(lab1 == 255)
+print("---white---")
 print("White Pixel Count: ", whitePixel)
 cv2.imshow("samplepic",lab1)
 
