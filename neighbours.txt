@@ -1,0 +1,70 @@
+1-Coordinate (343, 483): [156 201 239]
+Four Neighbours:
+Coordinate (344, 483): [163 204 240]
+Coordinate (342, 483): [159 202 241]
+Coordinate (343, 484): [156 205 240]
+Coordinate (343, 482): [157 203 241]
+
+2-Coordinate (414, 184): [68 23 83]
+Four Neighbours:
+Coordinate (415, 184): [68 22 81]
+Coordinate (413, 184): [68 25 89]
+Coordinate (414, 185): [72 31 85]
+Coordinate (414, 183): [73 24 86]
+
+3-Coordinate (119, 451): [61 24 98]
+Four Neighbours:
+Coordinate (120, 451): [ 69  21 100]
+Coordinate (118, 451): [ 68  25 100]
+Coordinate (119, 452): [61 21 97]
+Coordinate (119, 450): [ 65  26 110]
+
+4-Coordinate (428, 107): [ 72  27 100]
+Four Neighbours:
+Coordinate (429, 107): [ 78  35 102]
+Coordinate (427, 107): [76 27 97]
+Coordinate (428, 108): [61 13 78]
+Coordinate (428, 106): [125  88 142]
+
+5-Coordinate (432, 25): [ 61  32 105]
+Four Neighbours:
+Coordinate (433, 25): [ 60  32 100]
+Coordinate (431, 25): [ 63  31 101]
+Coordinate (432, 26): [49 10 86]
+Coordinate (432, 24): [ 94  69 134]
+
+6-Coordinate (42, 86): [ 80  68 176]
+Four Neighbours:
+Coordinate (43, 86): [ 79  74 179]
+Coordinate (41, 86): [ 80  67 177]
+Coordinate (42, 87): [ 86  71 178]
+Coordinate (42, 85): [ 76  72 177]
+
+7-Coordinate (132, 23): [ 75  58 172]
+Four Neighbours:
+Coordinate (133, 23): [ 71  55 171]
+Coordinate (131, 23): [ 76  56 173]
+Coordinate (132, 24): [ 70  61 170]
+Coordinate (132, 22): [ 71  63 170]
+
+8-Coordinate (460, 104): [77 34 96]
+Four Neighbours:
+Coordinate (461, 104): [76 29 90]
+Coordinate (459, 104): [ 73  37 102]
+Coordinate (460, 105): [78 31 94]
+Coordinate (460, 103): [ 80  41 106]
+
+9-Coordinate (50, 262): [ 93  91 194]
+Four Neighbours:
+Coordinate (51, 262): [ 81  80 195]
+Coordinate (49, 262): [103  98 202]
+Coordinate (50, 263): [ 93  89 197]
+Coordinate (50, 261): [ 91  84 188]
+
+10-Coordinate (469, 174): [ 64  24 103]
+Four Neighbours:
+Coordinate (470, 174): [ 64  29 102]
+Coordinate (468, 174): [66 31 97]
+Coordinate (469, 175): [ 65  30 102]
+Coordinate (469, 173): [64 21 89]
+
